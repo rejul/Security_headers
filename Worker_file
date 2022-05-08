@@ -9,7 +9,7 @@ const securityHeaders = {
 
     },
     sanitiseHeaders = {
-        Server: "rejulraghu.live"
+        Server: "Your_site_name"
     },
     removeHeaders = [
         "Public-Key-Pins",
